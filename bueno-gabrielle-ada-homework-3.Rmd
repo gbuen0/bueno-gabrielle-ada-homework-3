@@ -1,7 +1,6 @@
 ---
 title: "bueno-gabrielle-ada-homework-3"
 author: "Gabrielle Bueno"
-#output: html_document
 output:
   html_document:
     toc: yes
@@ -12,10 +11,6 @@ output:
     toc: yes
     toc_depth: '2'
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Challenge 1
 
